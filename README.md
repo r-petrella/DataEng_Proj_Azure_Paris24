@@ -1,4 +1,4 @@
-# AzureProjectWithCICD
+# End-to-End DE Project on Azure Ecosystem: Paris Olympics 2024
 
 ### HERE WE FIND THE SCRIPTS USED TO PERFORM ETL
 
